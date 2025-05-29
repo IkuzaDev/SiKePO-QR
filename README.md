@@ -267,7 +267,6 @@ src/
 ### 📫 Pembelian!
 
 - ✉️ Email: [IkuzaDev](mailto:dragon.studio.official@gmail.com)
-- 🌐 Website: [d5studio.my.id](https://d5studio.my.id) *(optional)*
 - 💬 DM me on [Telegram](https://t.me/IkuzaDev_ID) *(optional)*
 
 ---
