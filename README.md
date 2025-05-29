@@ -89,30 +89,6 @@
   </ul>
 </details>
 
-## 🚀 Cara Instalasi
-
-1. Clone repository ini
-   ```bash
-   git clone https://github.com/IkuzaDev/SiKePO.git
-   cd SiKePO
-   ```
-
-2. Install dependencies
-   ```bash
-   npm install
-   ```
-
-3. Jalankan aplikasi
-   ```bash
-   npm start
-   ```
-   atau untuk development
-   ```bash
-   npm run dev
-   ```
-
-4. Akses aplikasi melalui browser di `http://localhost:3000` atau `https://localhost` jika memiliki sertifikat SSL
-
 ## 🔑 Default Login
 
 | Role  | Username | Password  |
