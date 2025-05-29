@@ -35,10 +35,10 @@
 > Preview Mockup dari #SiKePOs
 
 <div align="center">
-  <img src="preview/mockup/mockup-SiKePO.jpg" alt="Dashboard SiKePO" width="45%" style="margin: 10px;border-radius: 50%;">
-  <img src="preview/mockup/mockup-SiKePO1.jpg" alt="Absensi QR Code" width="45%" style="margin: 10px;border-radius: 50%;">
-  <img src="preview/mockup/mockup-SiKePO2.jpg" alt="Monitoring Nilai" width="45%" style="margin: 10px;border-radius: 50%;">
-  <img src="preview/mockup/mockup-SiKePO3.jpg" alt="Dashboard Orang Tua" width="45%" style="margin: 10px;border-radius: 50%;">
+  <img src="preview/mockup/mockup-SiKePO.jpg" alt="Dashboard SiKePO" width="45%" style="margin: 10px;border-radius: 10px;">
+  <img src="preview/mockup/mockup-SiKePO1.jpg" alt="Absensi QR Code" width="45%" style="margin: 10px;border-radius: 10px;">
+  <img src="preview/mockup/mockup-SiKePO2.jpg" alt="Monitoring Nilai" width="45%" style="margin: 10px;border-radius: 10px;">
+  <img src="preview/mockup/mockup-SiKePO3.jpg" alt="Dashboard Orang Tua" width="45%" style="margin: 10px;border-radius: 10px;">
 </div>
 
 ## 🧩 Teknologi yang Digunakan
